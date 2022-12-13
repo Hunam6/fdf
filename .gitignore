@@ -1,0 +1,8 @@
+# General
+.DS_Store
+.vscode
+
+# FdF
+__MACOSX
+test_maps
+off_fdf

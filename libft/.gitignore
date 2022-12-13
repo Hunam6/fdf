@@ -1,0 +1,7 @@
+.vscode
+a.out
+main.c
+tests/
+*.dSYM/
+*.o
+*.a

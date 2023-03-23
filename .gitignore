@@ -1,8 +1,9 @@
-# General
-.DS_Store
+#VSCode
 .vscode
 
-# FdF
-__MACOSX
-test_maps
-off_fdf
+#MacOS
+*.dSYM/
+.DS_Store
+
+#C
+fdf

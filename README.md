@@ -1,17 +1,27 @@
 <div align="center">
   <h1>FdF</h1>
-  <b>A beautiful 3D wireframe renderer</b>
+  <b>A beautiful 3D wireframe renderer.</b>
 </div>
 
-## 🛠️ Installation
+## 📚 Usage
+![FdF Demo](https://github.com/Hunam6/fdf/assets/38606542/039bd85d-fe8f-4cca-96d0-a8ceae96ed67)
 
-FdF is cross-platform: MacOS, Linux and Windows via WSL.
+## 📋 Topics
+
+- Graphical programming
+- 3D transformations
+- Rendering
+
+## 🛠️ Langs/Tools
+
+- C
+- MinilibX (a low level graphical library)
+- Makefile
+
+## 🚀 Installation
 
 ```
 git clone https://github.com/hunam6/fdf
+cd fdf
 make
 ```
-
-## 📚 Usage
-
-https://user-images.githubusercontent.com/38606542/227331876-950c2a82-5d44-499b-be9e-9af871bda2b3.mov
